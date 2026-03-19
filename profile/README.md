@@ -59,7 +59,9 @@ async startGrowing(knowledge) {
 <br/>**지식 레버리지**: 집단 지성을 통한 사고의 확장으로 학습 복리 효과를 추구합니다. 
 
 ---
-이 프로젝트는 **AGPL-3.0** 라이선스에 따라 보호받습니다.
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+<br/> Copyright © Planet Devo K. All rights reserved. Concepts and Manifestos are licensed under CC BY-NC-ND 4.0.
+
 
 
 <!--
