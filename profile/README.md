@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://discord.gg/8vn2pZ6p">
-    <img src="https://discord.com/api/guilds/1374753887902498929/widget.png?style=banner2&v=1" alt="Discord Banner">
+    <img src="https://discord.com/api/guilds/1374753887902498929/widget.png?style=banner2&v=999" alt="Discord Banner">
   </a>
 </p>
 
