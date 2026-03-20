@@ -3,7 +3,6 @@
 [![Discord Widget](https://discord.com/api/guilds/1374753887902498929/widget.png?style=banner2)](https://discord.gg/8vn2pZ6p)
 
 > 1의 노력으로 N의 성장을, 지식 레버리지 앰플리피카 :magic_wand:
-> <br/>— 필요한 것, 상상했던 것을 실제로 구현하는 과정에 매료된 빌더</p>
 
 Planet Devo K는 서로의 지식과 경험을 레버리지 삼아 건강한 성장 궤도를 함께 만들어가는 빌더들의 공동체입니다.
 <br/>혼자 공부할 때 1의 시간은 1의 결과에 머물지만, 한 사람의 1시간이 공유되는 순간 그 노력은 레버리지가 되어 n 이상의 가치로 확장됩니다.
