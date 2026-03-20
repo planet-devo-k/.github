@@ -1,16 +1,28 @@
-# 🪐PLANET DEVO K : 공유가 곧 성장이 되는 곳, 빌더들의 행성 
-
+# <p align="center">🪐PLANET DEVO K : 공유가 곧 성장이 되는 곳, 빌더들의 행성</p>
+<!--
 [![Discord Widget](https://discord.com/api/guilds/1374753887902498929/widget.png?style=banner2)](https://discord.gg/8vn2pZ6p)
+!-->
 
-> <b>1의 노력으로 N의 성장을, 지식 레버리지 앰플리피카 :magic_wand:</br>
+<p align="center">
+  <a href="https://discord.gg/8vn2pZ6p">
+    <img src="https://discord.com/api/guilds/1374753887902498929/widget.png?style=banner2&v=1" alt="Discord Banner">
+  </a>
+</p>
+
+<p align="center">
+  <b>1의 노력으로 N의 성장을, 지식 레버리지 앰플리피카 🪄</b>
+</p>
+
+---
 
 <details>
-<summary>Planet Devo K의 철학과 그라운드 룰 확인하기 (CLICK)</summary>
+<summary><b>Explore the Planet</b></summary>
 <br/>
 Planet Devo K는 서로의 지식과 경험을 레버리지 삼아 건강한 성장 궤도를 함께 만들어가는 빌더들의 공동체입니다.
 <br/>혼자 공부할 때 1의 시간은 1의 결과에 머물지만, 한 사람의 1시간이 공유되는 순간 그 노력은 레버리지가 되어 n 이상의 가치로 확장됩니다.
 <br/>지식을 나누는 행위가 소모가 아닌 '증폭'이 되는 이 특별한 경험을 함께하고 싶습니다.
-
+<br/>
+  
 ```js
 const PlanetDevoK = {
   mission: "Amplifica",
@@ -63,10 +75,18 @@ async startGrowing(knowledge) {
 </details>
 
 ---
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-<br/><sub>Copyright © Planet Devo K. All rights reserved.</sub>
+<p align="right">
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg" alt="License">
+  </a>
+  <br/>
+  <sub>Copyright © 2026 sgoldenbird. All rights reserved.</sub>
+</p>
+
 <!--
-Copyright © Planet Devo K. All rights reserved. Concepts and Manifestos are licensed under CC BY-NC-ND 4.0.
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+<br/><sub>Copyright © 2026 sgoldenbird. All rights reserved.</sub>
+Copyright © 2026 sgoldenbird. All rights reserved. Concepts and Manifestos are licensed under CC BY-NC-ND 4.0.
 !-->
 
 
